@@ -44,4 +44,5 @@ Bike-sharing system, from the hardware to the dashboard:
 
 ## 📫 Contact
 
-<!-- TODO: LinkedIn / email -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sombrio/)
+[![Gmail](https://img.shields.io/badge/miguelsoeth@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:miguelsoeth@gmail.com)
